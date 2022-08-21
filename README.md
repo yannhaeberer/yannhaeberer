@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Yann
-- 👀 I’m interested in a lot :)
-- 🌱 I’m currently learning Python and Java
-- 💞️ I’m looking to collaborate on everything
+- 👀 I’m interested in a lot of things :)
+- 🌱 I’m currently trying to get better at Python
+- 💞️ I’m looking to collaborate on everything you want to colaborate on ;)
